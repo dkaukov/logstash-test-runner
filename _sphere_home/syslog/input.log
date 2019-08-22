@@ -1,0 +1,5 @@
+<1>Sep 12 23:19:02 docker syslog-ng[25389]: syslog-ng starting up; version='3.5.3'
+Sep 12 23:19:02 docker syslog-ng[25389]: syslog-ng starting up; version='3.5.4'
+<1>Sep 20 02:58:12 porridge3 puppet-master[27025]: Compiled catalog for bigbopper.adm.intranet in environment production in 1.31 seconds
+<5>Sep 14 23:29:24 tab: Local7.Notice 10.0.1.2 id=firewall time=2007-05-11 14:08:53 fw=FGT-602038033716 pri=5 log_id=0000010002 type=traffic subtype=session SN=2170882 duration=20 rule=0 policyid=0 proto=icmp service=icmp status=accept src=10.0.1.96 srcname=10.0.1.96 dst=10.0.1.2 dstname=10.0.1.2 src_int=n/a dst_int=internal sent=30 rcvd=30 sent_pkt=1 rcvd_pkt=1 src_port=0 dst_port=0 vpn=n/a tran_ip=0.0.0.0 tran_port=0\u0000
+Local7.Notice 10.0.1.2 id=firewall time='2007-05-11 14:08:53' fw=FGT-602038033716 pri=5 log_id=0000010002 type=traffic subtype=session SN=2170882 duration=20 rule=0 policyid=0 proto=icmp service=icmp status=accept src=10.0.1.96 srcname=10.0.1.96 dst=10.0.1.2 dstname=10.0.1.2 src_int=n/a dst_int=internal sent=30 rcvd=30 sent_pkt=1 rcvd_pkt=1 src_port=0 dst_port=0 vpn=n/a tran_ip=0.0.0.0 tran_port=0
